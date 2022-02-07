@@ -1,0 +1,8 @@
+{
+"processing board" : ["10 copper wire", "1 cpu", "1 board"],
+"computer screen" : ["1 LCD", "5 copper wire"],
+"pneumatical arm" : ["1 pneumatical pump", "15 copper wire"],
+"knife blade" : ["1 blade", "1 handle"],
+"circuit board" : ["5 copper wire","1 board"],
+"peeler blade" : ["1 small blade", "1 handle"]
+}

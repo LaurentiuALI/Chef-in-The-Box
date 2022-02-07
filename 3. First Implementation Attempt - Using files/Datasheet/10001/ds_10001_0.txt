@@ -1,0 +1,1 @@
+{"UID": "10001", "steps": "do processing board, do computer screen, do pneumatical arm, assembly boxhub", "materials": ["10 copper wire", "1 cpu", "1 board", "1 LCD", "5 copper wire", "10 metal", "1 pneumatical pump", "15 copper wire"]}

@@ -1,0 +1,1 @@
+{"UID": "10002", "steps": "do circuit board, assembly boiler", "materials": ["1 heater", "1 metal", "5 copper wire", "1 board", "1 motor"]}

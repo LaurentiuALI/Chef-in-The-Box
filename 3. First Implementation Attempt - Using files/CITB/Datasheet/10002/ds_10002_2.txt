@@ -1,0 +1,1 @@
+{"UID": "10002", "steps": "do knife blade, do circuit board, assembly cutter", "materials": ["1 blade", "1 handle", "1 metal", "5 copper wire", "1 board", "1 motor"]}

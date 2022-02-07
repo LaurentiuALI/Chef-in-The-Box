@@ -1,0 +1,6 @@
+{
+"UID":"10001", 
+"Products": ["boxhub", "cutter", "cutter", "peeler"],
+"Name": "Rosalim Sorin Ionut",
+"Adress": "Str. Cimitirului nr. 1, Selimbar, Sibiu"
+}
